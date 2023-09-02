@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.background{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200vh;
+    
+    
+   
+}
+body{
+    font-family:"Poppins",sans-serif;
+}
+.box{
+   background-color:white;
+   height: 450px;
+   width: 785px;
+   margin-top: -900px;
+   margin-left: 300px;
+   border-radius: 7px;
+  
+}
+.pad{
+    margin-top:-224px;
+    margin-left: 791px;
+    
+}
+.search{
+    margin-top:-210px;
+}
+.image2{
+    margin-top:-125px;
+    margin-left:580px
+}
+.image3{
+    margin-top:-128px;
+    margin-left:974px
+
+}
+.youtube{
+    font-family:"Poppins",sans-serif;
+} 
+.line{
+    background-color:silver;
+    height:0.8px;width:220px;float:right;margin-top:-49px;margin-right:-162px;background-color: forestgreen;color:white
+}
+.short{
+    background-color: silver;
+    width:250px;
+    height: 30px;
+    margin-top:90px;
+    margin-left: 240px;
+    text-align: center;
+    border-radius: 3px;
+    border-width: 0px;
+    outline: 0px;
+}
+.submit{
+    margin-top:-90px
+    
+}
+.shortenbutton{
+    
+    font-family:"Poppins",sans-serif;
+    margin-left:593px;
+    margin-top: -160px;;
+
+}
+.button2{
+    margin-top:-16px;
+    
+}
